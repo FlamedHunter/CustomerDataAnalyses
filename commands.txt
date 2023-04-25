@@ -1,9 +1,0 @@
-.\venv\Scripts\activate
-C:\Users\krman\Documents\Django\bioequipzone
-
-and cd ....
-isse directory select kar sakte hai
-
-python3 -m pip install virtualenv
-
-https://www.youtube.com/watch?v=VuETrwKYLTM&ab_channel=Telusko
